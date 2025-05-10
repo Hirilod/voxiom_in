@@ -1,5 +1,5 @@
 "use strict";
-(self["webpackChunkclient"] = self["webpackChunkclient"] || [])["push"]([
+(self["webpackChunkclient"] = self["webpackChunkclient"] || [])["push"]([ 
     [0x1e],
     {
         0x101ee: function (j0, j1, j2) {
