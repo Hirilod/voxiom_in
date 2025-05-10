@@ -1,4 +1,5 @@
 !(function() {
+    console.log("Success")
     var j,
         R,
         V,
